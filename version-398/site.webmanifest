@@ -1,0 +1,8 @@
+{
+    "name": "欧美精选电影",
+    "short_name": "欧美精选电影",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f8fafc",
+    "theme_color": "#059669"
+}
